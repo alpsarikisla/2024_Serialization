@@ -1,0 +1,10 @@
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\bin\Debug\Serilestirme.exe.config
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\bin\Debug\Serilestirme.exe
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\bin\Debug\Serilestirme.pdb
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\obj\Debug\Serilestirme.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\obj\Debug\Serilestirme.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\obj\Debug\Serilestirme.exe
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\obj\Debug\Serilestirme.pdb
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alp\source\repos\Serilestirme\Serilestirme\obj\Debug\Serilest.D41C6A01.Up2Date
